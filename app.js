@@ -46,7 +46,7 @@ const port = 3000;
     },
   ];
   
-
+//lahcen marche rapidement 
 app.get("/lahcen", (req, res) => res.send("hello word"));
 
 app.get("/api/pkimons/:id", (req, res) => {
@@ -64,7 +64,7 @@ app.get("/api/pkimons/:id", (req, res) => {
     res.send("erreur d'affichage")
   }
   
-  
+  ////fkpddjiWJVBNJ  NQEFHVBN JRVNwewècijrfm hu41huifvhz fjqnec
 });
  
 
